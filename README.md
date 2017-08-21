@@ -1,5 +1,7 @@
 # Cat Cubes
 
+https://catcubes.party
+
 ## Legal
 
 Copyrighted by Wexpo Lyu & Holy Yea.
